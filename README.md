@@ -48,3 +48,7 @@ pip install -r requirements.txt
 ```powershell
 python scheduler.py
 ```
+
+Catatan:
+- Jangan lupa menggunakan VPN ITS atau WiFi ITS
+- Jangan lupa mengisikan IP VM pada `.env`
